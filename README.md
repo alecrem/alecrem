@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: in the mid-90s, I was once allowed to play 4 [Balance](https://c1.scryfall.com/file/scryfall-cards/large/front/a/2/a21b08d4-b43d-4c93-99e7-39dfe83ced91.jpg) in my deck in a sanctioned Magic tournament
 - 💬 Ask me about: that one Magic tournament I won with 4 Balance in my Burn deck
 
+[![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma](https://github-profile-trophy.vercel.app/?username=alecrem&no-bg&theme=onedark&rank=-C,-B&row=4&column=3&no-frame=true))](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 ![alecrem's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecrem&show_icons=true&theme=default)
 
