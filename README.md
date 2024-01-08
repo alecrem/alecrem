@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: a learning analytics-related Python library
-- 🌱 I’m currently learning: Next.js, Solidity and figma
+- 🔭 I’m currently working on: an active learning platform
+- 🌱 I’m currently learning: figma, and different ways to work with Next.js
 - 👯 I’m looking to collaborate on: civic tech
 - 📫 How to reach me: [@karawapo on Twitter](https://twitter.com/karawapo), <a rel="me" href="https://mastodon.social/@karawapo">`@karawapo@mastodon.social`</a>
 - 😄 Pronouns: he/him
