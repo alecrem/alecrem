@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: an active learning platform
-- 🌱 I’m currently learning: figma, and different ways to work with Next.js
+- 🔭 I’m currently working on: a Remix project with a GraphQL backend
+- 🌱 I’m currently learning: Prisma, GraphQL, CDK
 - 👯 I’m looking to collaborate on: civic tech
-- 📫 How to reach me: [@karawapo on Twitter](https://twitter.com/karawapo), <a rel="me" href="https://mastodon.social/@karawapo">`@karawapo@mastodon.social`</a>
+- 📫 How to reach me: [@karawapo on Twitter](https://twitter.com/karawapo), [@karawapo.bsky.social](https://bsky.app/profile/karawapo.bsky.social), <a rel="me" href="https://mastodon.social/@karawapo">`@karawapo@mastodon.social`</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: in the mid-90s, I was once allowed to play 4 [Balance](https://c1.scryfall.com/file/scryfall-cards/large/front/a/2/a21b08d4-b43d-4c93-99e7-39dfe83ced91.jpg) in my deck in a sanctioned Magic tournament
 - 💬 Ask me about: that one Magic tournament I won with 4 Balance in my Burn deck
